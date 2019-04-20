@@ -17,8 +17,8 @@ title: Karina Macancela
 email: karymacancela@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my profile! I hope you learn a bit about me and what I enjoy doing. Creative and curious by nature, I am a Full Stack Software Developer who focuses on Java, JavaScript, SQL, and Swift. I am focusing on creating iOS mobile applications as my side projects. Besides developing, I am a passionate painter, bookworm junkie, and an ameatur baker.
-baseurl: "/kmacancela" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "kmacancela.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kmacancela
 github_username:  kmacancela
 
