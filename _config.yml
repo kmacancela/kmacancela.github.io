@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Karina Macancela"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my profile! I hope you learn a bit about me and what I enjoy doing. Creative and curious by nature, I am a Full Stack Software Developer who focuses on Java, JavaScript, SQL, and Swift. I am focusing on creating iOS mobile applications as my side projects. Besides developing, I am a passionate painter, bookworm junkie, and an ameatur baker."
+  bio              : "Welcome to my portfolio! I am creative and curious by nature which is why I love being a Software Developer. I focus on Java, JavaScript, SQL, and Swift. My current projects involve creating iOS mobile applications. Besides developing, I am a passionate painter, bookworm junkie, and an ameatur cook & baker."
   location         : "New York, NY"
   email            : "karymacancela@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:karymacancela@gmail.com
+      # url: mailto:karymacancela@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,7 +131,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kmacancela/"
 
 # Site Footer
@@ -147,7 +147,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kmacancela"
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kmacancela/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
