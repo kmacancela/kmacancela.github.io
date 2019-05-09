@@ -240,7 +240,11 @@ plugins_dir:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+<<<<<<< HEAD
   - rake
+=======
+  - jekyll-archives
+>>>>>>> b87d046e4683133523e469723c2b0283dd4d64f7
 
 # mimic GitHub Pages with --safe
 whitelist:
