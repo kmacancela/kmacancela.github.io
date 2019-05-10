@@ -4,7 +4,7 @@ permalink: "/blog/"
 title: "Blog Posts by Tags"
 author-profile: true
 header:
-  image: "/images/flower.jpg"
+  image: "/assets/images/flower.jpg"
 ---
 
 {% include base_path %}
