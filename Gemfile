@@ -11,4 +11,5 @@ source 'https://rubygems.org'
 
 # gem 'rake'
 gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"
 # gemspec
