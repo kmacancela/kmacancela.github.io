@@ -231,15 +231,15 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
-plugins_dir: ./_scripts
-# gems:
-plugins_dir:
+#plugins_dir: ./_scripts
+gems:
+#plugins_dir:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
   - rake
   - jekyll-archives
 
