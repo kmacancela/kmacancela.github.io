@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Life Is Your Canvas"
+title                    : "Life Is Your Canvas | Karina Macancela"
 title_separator          : "-"
 name                     : "Karina Macancela"
 description              : "My Blog"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Karina Macancela"
-  avatar           : "/assets/images/selfie.jpg"
+  avatar           : "/assets/images/about_selfie.jpg"
   bio              : "Software Developer and Artist"
   location         : "New York, NY"
   email            : "karymacancela@gmail.com"
@@ -121,9 +121,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kmacancela"
@@ -140,21 +137,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kmacancela"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kmacancela/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
