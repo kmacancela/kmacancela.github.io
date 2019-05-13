@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Karina Macancela"
-  avatar           : "/assets/images/selfie.jpg"
+  avatar           : "/assets/images/with_mom.jpg"
   bio              : "Software Developer and Artist"
   location         : "New York, NY"
   email            : "karymacancela@gmail.com"
@@ -289,7 +289,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
