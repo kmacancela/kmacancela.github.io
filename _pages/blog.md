@@ -5,6 +5,7 @@ title: "Blog Posts by Tags"
 author-profile: true
 header:
   overlay_image: "/assets/images/flower.jpg"
+
 ---
 
 {% include base_path %}

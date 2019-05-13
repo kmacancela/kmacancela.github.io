@@ -8,7 +8,15 @@ main:
     url: /assets/docs/resume.pdf
   # - title: "Artwork"
   #   url: /artwork/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+sidebar:
+  - title: "BLOG POSTS BY TOPIC"
+    children:
+      - title: "Coding"
+        url: /tags/#coding
+      - title: "Personal"
+        url: /tags/#personal
+
+tag_archive:
+  type: liquid
+  path: /tags/

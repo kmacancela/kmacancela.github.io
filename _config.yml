@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Life Is Your Canvas | Karina Macancela"
+title                    : "Karina Macancela"
 title_separator          : "-"
 name                     : "Karina Macancela"
 description              : "My Blog"
@@ -300,3 +300,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _sidebar
+  - scope:
+      path: ""
+      type: sidebar
+    values:
+      sidebar:
+        nav: "sidebar"

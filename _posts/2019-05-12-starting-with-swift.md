@@ -4,7 +4,8 @@ date: 2019-05-12
 tags: [Coding]
 header:
   overlay_color: "#333"
-excerpt: "For the past weeks, I have been learning Swift. Here is what I have been watching as a beginner."
+excerpt: "For the past weeks, I have been learning Swift. Here is what I have been watching as a beginner. It has helped me a lot and it might help you too."
+
 ---
 
 <p align="justify">
