@@ -6,8 +6,8 @@ main:
     url: /blog/
   - title: "Resume"
     url: /assets/docs/resume.pdf
-  - title: "Artwork"
-    url: /artwork/
+  # - title: "Artwork"
+  #   url: /artwork/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
