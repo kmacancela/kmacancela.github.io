@@ -126,7 +126,7 @@ author:
       url: "https://github.com/kmacancela"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/coolkatwizard/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kmacancela/"
@@ -145,7 +145,7 @@ footer:
       url: "https://www.linkedin.com/in/kmacancela/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/coolkatwizard/"
 
 
 # Reading Files
