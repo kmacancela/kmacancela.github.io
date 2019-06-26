@@ -1,0 +1,3 @@
+[submodule "PClinic"]
+	path = PClinic
+	url = https://github.com/kmacancela/Pet-Clinic.git

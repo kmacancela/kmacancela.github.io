@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Life Is Your Canvas" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Karina Macancela"
   avatar           : "/assets/images/with_mom.jpg"
-  bio              : "Software Developer and Artist"
+  bio              : "Software Engineer"
   location         : "New York, NY"
   email            : "karymacancela@gmail.com"
   links:
@@ -129,7 +129,7 @@ author:
       # url: "https://www.instagram.com/coolkatwizard/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/kmacancela/"
+      url: "https://www.linkedin.com/in/kmacancela/"
 
 # Site Footer
 footer:

@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "About"
-  #   url: /#about
+  - title: "About"
+    url: /about/
   - title: "Projects"
     url: /assets/docs/Karina%20Macancela%20-%20Projects.pdf
   # - title: "Blog"
