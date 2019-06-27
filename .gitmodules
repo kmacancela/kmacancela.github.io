@@ -1,3 +1,6 @@
 [submodule "PClinic"]
 	path = PClinic
 	url = https://github.com/kmacancela/Pet-Clinic.git
+[submodule "ers"]
+	path = ers
+	url = https://github.com/kmacancela/ers.git
