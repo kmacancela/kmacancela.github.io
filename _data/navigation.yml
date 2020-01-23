@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /about/
-  - title: "Projects"
     url: /
+  - title: "Projects"
+    url: /projects/
   # - title: "Blog"
   #  url: /blog/
-  - title: "Resume"
-    url: /assets/docs/Karina%20Macancela%20-%20Resume.pdf
+  # - title: "Resume"
+  #   url: /assets/docs/Karina%20Macancela%20-%20Resume.pdf
   # - title: "Artwork"
   #   url: /artwork/
 
